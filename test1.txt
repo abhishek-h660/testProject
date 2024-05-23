@@ -1,0 +1,2 @@
+hello testing world!!
+how about giving a try to pull these files from git via a script
